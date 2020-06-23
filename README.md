@@ -13,3 +13,7 @@ English
 French
 
 * [wRadion](https://www.twitch.tv/wradion)
+
+Russian
+
+* [icefire708](https://www.twitch.tv/icefire708)
