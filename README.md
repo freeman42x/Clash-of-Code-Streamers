@@ -9,6 +9,8 @@ English
 * [leotigers](https://www.twitch.tv/leotigers)
 * [Dav1dsnyder404](https://www.twitch.tv/dav1dsnyder404)
 * [sceuriolu](https://www.twitch.tv/sceuriolu)
+* [MadhouseSteve](https://www.twitch.tv/MadhouseSteve)
+* [ryantupo](https://www.twitch.tv/ryantupo)
 
 French
 
