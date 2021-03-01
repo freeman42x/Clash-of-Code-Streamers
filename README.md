@@ -12,6 +12,8 @@ English
 * [leotigers](https://www.twitch.tv/leotigers)
 * [Dav1dsnyder404](https://www.twitch.tv/dav1dsnyder404)
 * [sceuriolu](https://www.twitch.tv/sceuriolu)
+* [saltAxAtlas](https://www.twitch.tv/saltaxatlas)
+* [MirroredCat](https://www.twitch.tv/mirroredcat)
 
 French
 
